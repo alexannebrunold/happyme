@@ -1,0 +1,6 @@
+.category-container {
+    display: flex;
+    flex-direction: column;
+    margin: 1.8rem;
+    width: 40%;
+}
